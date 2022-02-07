@@ -2,13 +2,10 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <h3 align="center>Ice Cream</h3>
+<h3 align="center>Ice Cream</h3></p>
 
-<!-- TABLE OF CONTENTS -->
 
 <!-- HOW TO RUN -->
-
-## How to run
 
 Please follow the below instructions to run this project in your machine:
 
