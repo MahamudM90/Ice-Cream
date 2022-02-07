@@ -6,11 +6,6 @@
 
 <!-- TABLE OF CONTENTS -->
 
-## Table of Contents
-
-- [How to run](#how-to-run)
-- [Contact](#contact)
-
 <!-- HOW TO RUN -->
 
 ## How to run
@@ -21,7 +16,6 @@ Please follow the below instructions to run this project in your machine:
    ```sh
    git clone https://github.com/mahamudm90/ice-cream.git
    ```
-2. Watch the youtube tutorial on this topic - https://youtu.be/N3vG6Yt-e6k.
 3. Install VS Code Live Server Plugin.
 4. Install VS Code Live SASS Compiler Plugin.
 5. Click the Watch Sass button in your editor as shown in tutorial.
