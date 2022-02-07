@@ -2,11 +2,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <h3 align="center"><a href="https://github.com/learnwithsumit/sass-overview-tutorial">SASS Overview Tutorial in Bangla</a></h3>
-
-A complete guide on SASS described in Bangla. Please check the video tutorial here -
-
-[![View on Youtube](http://img.youtube.com/vi/N3vG6Yt-e6k/0.jpg)](https://youtu.be/N3vG6Yt-e6k)
+  <h3 align="center>Ice Cream</h3>
 
 <!-- TABLE OF CONTENTS -->
 
