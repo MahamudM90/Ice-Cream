@@ -11,9 +11,6 @@ Please follow the below instructions to run this project in your machine:
 ```
 $ git clone https://github.com/MahamudM90/ice cream
 
-Contact
-
-<!-- CONTACT -->
 
 ## Contact
 
