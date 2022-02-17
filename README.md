@@ -1,4 +1,4 @@
-## ICE CREAM 🍦
+## ICE-CREAM 🍦
 
 This is the design of ice cream by using scss.
 
