@@ -2,7 +2,7 @@
 
 This is the UI Design of Ice Cream By Using Scss.
 
-##### HomePage
+##### Home Page
 ![ScreenShot of Form](a.png)
 
 Please follow the below instructions to run this project in your machine:
