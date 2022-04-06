@@ -1,6 +1,6 @@
 ## ICE-CREAM 🍦
 
-This is the UI Design of Ice Cream By Using Scss🍨🍦
+This is The UI Design of Ice Cream By Using Scss🍨🍦
 
 
 ##### Home Page
